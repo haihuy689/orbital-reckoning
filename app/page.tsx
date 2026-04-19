@@ -1,9 +1,9 @@
-import { GameExperience } from "@/components/game-experience";
+import { NebulaExperience } from "@/components/nebula-experience";
 
 export default function Home() {
   return (
     <main className="page-shell">
-      <GameExperience />
+      <NebulaExperience />
     </main>
   );
 }
